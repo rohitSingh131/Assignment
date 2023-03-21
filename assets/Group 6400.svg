@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="659" height="445" viewBox="0 0 659 445">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="27.669" height="26.52" fill="#3d5065"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6400" data-name="Group 6400" transform="translate(0 -9596)">
+    <g id="Group_6234" data-name="Group 6234" transform="translate(0 9596)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="659" height="445" fill="#3d4f64"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="575" height="306" rx="7" transform="translate(42 45)" fill="#fff"/>
+      <g id="Stars" transform="translate(251.59 68.446)">
+        <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+          <g id="Group_3" data-name="Group 3" clip-path="url(#clip-path)">
+            <path id="Path_374" data-name="Path 374" d="M27.669,10.758c-.207.752-.855,1.129-1.384,1.6-1.655,1.47-3.325,2.923-4.995,4.377a.318.318,0,0,0-.112.367c.573,2.5,1.137,5.007,1.707,7.51a1.481,1.481,0,0,1-2.252,1.645q-3.3-1.974-6.591-3.949a.339.339,0,0,0-.411,0q-3.3,1.985-6.619,3.955a1.464,1.464,0,0,1-2.281-1.123,3.12,3.12,0,0,1,.158-.981q.793-3.506,1.6-7.009a.419.419,0,0,0-.167-.476q-2.89-2.52-5.768-5.052a1.471,1.471,0,0,1,.8-2.608q.751-.077,1.5-.146Q4.9,8.684,6.947,8.5c.69-.062,1.379-.128,2.07-.176a.441.441,0,0,0,.434-.307c.986-2.331,1.984-4.657,2.976-6.986a1.48,1.48,0,0,1,2.332-.7,1.757,1.757,0,0,1,.5.724c1,2.336,2,4.67,2.991,7.009a.365.365,0,0,0,.355.254q2.527.218,5.053.446c.9.081,1.791.162,2.685.258A1.421,1.421,0,0,1,27.618,10.1a1.28,1.28,0,0,0,.052.12Z" transform="translate(0 0)" fill="#3d5065"/>
+          </g>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(32.038 0)">
+          <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+            <path id="Path_374-2" data-name="Path 374" d="M27.669,10.758c-.207.752-.855,1.129-1.384,1.6-1.655,1.47-3.325,2.923-4.995,4.377a.318.318,0,0,0-.112.367c.573,2.5,1.137,5.007,1.707,7.51a1.481,1.481,0,0,1-2.252,1.645q-3.3-1.974-6.591-3.949a.339.339,0,0,0-.411,0q-3.3,1.985-6.619,3.955a1.464,1.464,0,0,1-2.281-1.123,3.12,3.12,0,0,1,.158-.981q.793-3.506,1.6-7.009a.419.419,0,0,0-.167-.476q-2.89-2.52-5.768-5.052a1.471,1.471,0,0,1,.8-2.608q.751-.077,1.5-.146Q4.9,8.684,6.947,8.5c.69-.062,1.379-.128,2.07-.176a.441.441,0,0,0,.434-.307c.986-2.331,1.984-4.657,2.976-6.986a1.48,1.48,0,0,1,2.332-.7,1.757,1.757,0,0,1,.5.724c1,2.336,2,4.67,2.991,7.009a.365.365,0,0,0,.355.254q2.527.218,5.053.446c.9.081,1.791.162,2.685.258A1.421,1.421,0,0,1,27.618,10.1a1.28,1.28,0,0,0,.052.12Z" transform="translate(0 0)" fill="#3d5065"/>
+          </g>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(64.076 0)">
+          <g id="Group_3-3" data-name="Group 3" clip-path="url(#clip-path)">
+            <path id="Path_374-3" data-name="Path 374" d="M27.669,10.758c-.207.752-.855,1.129-1.384,1.6-1.655,1.47-3.325,2.923-4.995,4.377a.318.318,0,0,0-.112.367c.573,2.5,1.137,5.007,1.707,7.51a1.481,1.481,0,0,1-2.252,1.645q-3.3-1.974-6.591-3.949a.339.339,0,0,0-.411,0q-3.3,1.985-6.619,3.955a1.464,1.464,0,0,1-2.281-1.123,3.12,3.12,0,0,1,.158-.981q.793-3.506,1.6-7.009a.419.419,0,0,0-.167-.476q-2.89-2.52-5.768-5.052a1.471,1.471,0,0,1,.8-2.608q.751-.077,1.5-.146Q4.9,8.684,6.947,8.5c.69-.062,1.379-.128,2.07-.176a.441.441,0,0,0,.434-.307c.986-2.331,1.984-4.657,2.976-6.986a1.48,1.48,0,0,1,2.332-.7,1.757,1.757,0,0,1,.5.724c1,2.336,2,4.67,2.991,7.009a.365.365,0,0,0,.355.254q2.527.218,5.053.446c.9.081,1.791.162,2.685.258A1.421,1.421,0,0,1,27.618,10.1a1.28,1.28,0,0,0,.052.12Z" transform="translate(0 0)" fill="#3d5065"/>
+          </g>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(96.114 0)">
+          <g id="Group_3-4" data-name="Group 3" clip-path="url(#clip-path)">
+            <path id="Path_374-4" data-name="Path 374" d="M27.669,10.758c-.207.752-.855,1.129-1.384,1.6-1.655,1.47-3.325,2.923-4.995,4.377a.318.318,0,0,0-.112.367c.573,2.5,1.137,5.007,1.707,7.51a1.481,1.481,0,0,1-2.252,1.645q-3.3-1.974-6.591-3.949a.339.339,0,0,0-.411,0q-3.3,1.985-6.619,3.955a1.464,1.464,0,0,1-2.281-1.123,3.12,3.12,0,0,1,.158-.981q.793-3.506,1.6-7.009a.419.419,0,0,0-.167-.476q-2.89-2.52-5.768-5.052a1.471,1.471,0,0,1,.8-2.608q.751-.077,1.5-.146Q4.9,8.684,6.947,8.5c.69-.062,1.379-.128,2.07-.176a.441.441,0,0,0,.434-.307c.986-2.331,1.984-4.657,2.976-6.986a1.48,1.48,0,0,1,2.332-.7,1.757,1.757,0,0,1,.5.724c1,2.336,2,4.67,2.991,7.009a.365.365,0,0,0,.355.254q2.527.218,5.053.446c.9.081,1.791.162,2.685.258A1.421,1.421,0,0,1,27.618,10.1a1.28,1.28,0,0,0,.052.12Z" transform="translate(0 0)" fill="#3d5065"/>
+          </g>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(128.152 0)">
+          <g id="Group_3-5" data-name="Group 3" clip-path="url(#clip-path)">
+            <path id="Path_374-5" data-name="Path 374" d="M27.669,10.758c-.207.752-.855,1.129-1.384,1.6-1.655,1.47-3.325,2.923-4.995,4.377a.318.318,0,0,0-.112.367c.573,2.5,1.137,5.007,1.707,7.51a1.481,1.481,0,0,1-2.252,1.645q-3.3-1.974-6.591-3.949a.339.339,0,0,0-.411,0q-3.3,1.985-6.619,3.955a1.464,1.464,0,0,1-2.281-1.123,3.12,3.12,0,0,1,.158-.981q.793-3.506,1.6-7.009a.419.419,0,0,0-.167-.476q-2.89-2.52-5.768-5.052a1.471,1.471,0,0,1,.8-2.608q.751-.077,1.5-.146Q4.9,8.684,6.947,8.5c.69-.062,1.379-.128,2.07-.176a.441.441,0,0,0,.434-.307c.986-2.331,1.984-4.657,2.976-6.986a1.48,1.48,0,0,1,2.332-.7,1.757,1.757,0,0,1,.5.724c1,2.336,2,4.67,2.991,7.009a.365.365,0,0,0,.355.254q2.527.218,5.053.446c.9.081,1.791.162,2.685.258A1.421,1.421,0,0,1,27.618,10.1a1.28,1.28,0,0,0,.052.12Z" transform="translate(0 0)" fill="#3d5065"/>
+          </g>
+        </g>
+      </g>
+      <text id="_Great_Product_For_Cleaning_Every_Room._This_is_a_great_starter_kit_and_all_three_scents_are_just_lovely._Cleaning_is_no_longer_a_chore_and_once_I_started_I_didn_t_want_to_stop._So_good_to_just_need_one_product_for_every_surface._Andrea_Verified_Buyer_P" data-name="“Great Product For Cleaning Every Room. This is a great starter kit and all three scents are just lovely. Cleaning is no longer a chore and once I started I didn’t want to stop. So good to just need one product for every surface.”
+
+Andrea, Verified Buyer
+P" transform="translate(98 117)" fill="#3d4f64" font-size="24" font-family="Value-Bold, Value" font-weight="700"><tspan x="37" y="17">“Great Product For Cleaning Every </tspan><tspan x="11" y="45">Room. This is a great starter kit and all </tspan><tspan x="15" y="73">three scents are just lovely. Cleaning is </tspan><tspan x="16" y="101">no longer a chore and once I started I </tspan><tspan x="1" y="129">didn’t want to stop. So good to just need </tspan><tspan x="57" y="157">one product for every surface.”</tspan><tspan x="231" y="185"></tspan><tspan x="103" y="213">Andrea, Verified Buyer</tspan></text>
+      <g id="Group_6322" data-name="Group 6322" transform="translate(-17.059 -1630.094)">
+        <path id="Path_1" data-name="Path 1" d="M216.029,1990.826l-16.591,16.591,16.591,16.591" transform="translate(93.278 24.302)" fill="none" stroke="#fff" stroke-width="5" opacity="0.49"/>
+        <path id="Path_2" data-name="Path 2" d="M16.591,0,0,16.591,16.591,33.182" transform="translate(400.402 2048.31) rotate(180)" fill="none" stroke="#fff" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

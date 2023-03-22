@@ -53,7 +53,7 @@ img {
 .banner {
   position: relative;
   top: -3.0rem;
-  background: url(/assets/whero.png);
+  background: url(/assets/home-desktop.png);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -530,10 +530,10 @@ img {
     padding: 0.1rem 3rem;
   }
   .banner {
-    background: url(/assets/Group\ 6226.png);
+    background: url(/assets/home-mobile.png);
     background-size: cover;
     height: 100vh;
-    background-position: 84%;
+    background-position: 75%;
     top: 0;
   }
   .banner .text-home {
@@ -609,7 +609,7 @@ img {
   }
 
   .spa-items-1 {
-    min-height: 77vh;
+    min-height: 72vh;
   }
   .spa-items-2 {
     margin-top: -5rem;
